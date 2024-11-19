@@ -6,8 +6,7 @@ Full-Stack Web Developer
 
 I'm a FullStack Dev who is building , breaking, experimenting , learning & solving real world problem with code. I am open for collaboration.
 
-* ✉️  You can contact me at [swarnendughosh988@gmail.com](mailto:swarnendughosh988@gmail.com)
-* 🚀  I'm currently working on [Market-Fusion](https://marketfusion.vercel.app/)
+
 * 🧠  I'm learning Web3 Dev with Rust and Solidity
 * 🤝  I'm open to collaborating on FullStack + web3  + DevOps
   
