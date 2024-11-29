@@ -22,17 +22,6 @@ I'm a FullStack Dev who is building , breaking, experimenting , learning & solvi
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,rust,java,kotlin,solidity,go,bash,python,c,cpp,lua)](https://skillicons.dev)
 
-<h2>Frameworks & Library</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,react,nextjs,tailwindcss,jest,vitest,threejs,actix)](https://skillicons.dev)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=recoil,reactnative,authjs,graphql,trpc,hardhat,)
-
-<h2>Databases/ORM</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,)](https://skillicons.dev)
-
-<h2>DevOps</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=docker,k8s,grafana,prometheus,terraform)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,digitalocean,gcp,cloudflare,argocd,helm)
 
 
 <h2>Tools</h2>
